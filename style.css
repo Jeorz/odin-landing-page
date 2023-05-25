@@ -9,14 +9,8 @@ body {
   align-items: stretch;
 }
 
-
-
 .flex {
   display:flex;
-}
-
-.column {
-  flex-direction: column;
 }
 
 .content {
