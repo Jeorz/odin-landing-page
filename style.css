@@ -33,16 +33,9 @@ body {
   align-items:center;
 }
 
-.hero ul{
-  display: flex;
-  list-style-type:none;
-  margin: 0;
-  padding: 0;
-  flex: 0;
-}
-
 nav {
   min-width: 1000px;
+  margin: 16px;
 }
 
 nav .logo {
@@ -56,6 +49,7 @@ nav ul{
   margin: 0;
   padding: 0;
   flex: 0;
+  gap: 32px;
 }
 
 .hero .content{
@@ -68,3 +62,5 @@ nav ul{
   color: #f9faf8;
   margin: 16px 0;
 }
+
+
