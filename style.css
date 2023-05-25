@@ -75,6 +75,7 @@ nav ul{
 
 .info {
   color: #49494D;
+  justify-content: center;
 }
 
 .info h2 {
@@ -93,4 +94,13 @@ nav ul{
 
 .info .content {
   margin: 100px 0;
+  justify-content: center;
+}
+
+.info .container {
+  text-align: center;
+}
+
+.container p {
+  max-width: 200px;
 }
