@@ -41,6 +41,12 @@ body {
   color: #f9faf8;
 }
 
-body .flex {
-  display: flex;
+.flex {
+  display:flex;
+  justify-content:center;
+}
+
+
+.content {
+  max-width: 1000px;
 }
