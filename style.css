@@ -50,3 +50,8 @@ body {
 .content {
   max-width: 1000px;
 }
+
+.placeholder {
+  padding: 16px;
+  background-color: #e5e7eb;
+}
