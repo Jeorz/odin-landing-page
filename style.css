@@ -1,2 +1,37 @@
 /* style.css */
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.hero ul{
+  display: flex;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  flex: 0;
+}
+
+.hero ul .logo{
+  margin-right: auto;
+}
+
+
+.hero ul{
+  display: flex;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  flex: 0;
+}
+
+.flex {
+  display: flex;
+}
