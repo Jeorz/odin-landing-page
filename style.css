@@ -37,8 +37,9 @@ body {
 
 .hero h1 {
   font-size: 48px;
-  font-weight: extra-bold;
+  font-weight: 1000;
   color: #f9faf8;
+  margin: 16px 0;
 }
 
 .flex {
@@ -49,6 +50,8 @@ body {
 
 .content {
   max-width: 1000px;
+  gap: 64px;
+  margin: 150px 0;
 }
 
 .placeholder {
