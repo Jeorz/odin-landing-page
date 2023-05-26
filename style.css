@@ -21,13 +21,16 @@ body {
   gap: 64px;
 }
 
+.dark-bg {
+  background-color: #1f2937;
+}
+
 .placeholder {
   padding: 16px;
   background-color: #e5e7eb;
 }
 
 .hero {
-  background-color: #1f2937;
   color: #e5e7eb;
   font-size: 18px;
   flex-direction: column;
@@ -165,4 +168,11 @@ h2 {
   border: 2px solid #e5e7eb;
 }
 
-
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+  color: #e5e7eb;
+  padding: 32px;
+}
